@@ -12,3 +12,6 @@ elif 25.0 < BMI < 30.0:
     print("Overweight")
 else:
     print("Obese")
+
+#This is command line
+print("Say hello!")
